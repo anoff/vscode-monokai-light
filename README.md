@@ -8,7 +8,7 @@ Find the source on [github](https://github.com/anoff/vscode-monokai-light).
 
 ## Action shot
 
-<img alt="Javascript code highlighting" src="./screenshot_js.png" width="800px">
+<img alt="Javascript code highlighting" src="https://raw.githubusercontent.com/anoff/vscode-monokai-light/master/screenshot_js.png" width="800px">
 
 ## License
 
