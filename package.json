@@ -1,0 +1,36 @@
+{
+  "name": "theme-monokai-light",
+  "displayName": "monokai light",
+  "description": "monokai colors on bright background 💖",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": "anoff/vscode-monokai-light",
+  "publisher": "anoff",
+  "engines": {
+    "vscode": "^1.5.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokai Light",
+        "uiTheme": "vs",
+        "path": "./themes/Monokai%20Light.tmTheme"
+      }
+    ]
+  },
+  "devDependencies": {
+    "cz-conventional-kawaii": "^0.1.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-kawaii"
+    },
+    "cz-conventional-kawaii": {
+      "quick": true,
+      "scopes": []
+    }
+  }
+}
