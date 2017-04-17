@@ -1,45 +1,45 @@
 {
-    "name": "theme-monokai-light",
-    "displayName": "monokai light",
-    "description": "monokai colors on bright background 💖",
-    "version": "1.0.2",
-    "license": "MIT",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/anoff/vscode-monokai-light.git"
+  "name": "theme-monokai-light",
+  "displayName": "monokai light",
+  "description": "monokai colors on bright background 💖",
+  "version": "1.0.3",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anoff/vscode-monokai-light.git"
+  },
+  "publisher": "anoff",
+  "homepage": "https://github.com/anoff/vscode-monokai-light/blob/master/README.md",
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#F92672",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.5.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokai Light",
+        "uiTheme": "vs",
+        "path": "./themes/Monokai%20Light.tmTheme"
+      }
+    ]
+  },
+  "devDependencies": {
+    "cz-conventional-kawaii": "^0.1.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-kawaii"
     },
-    "publisher": "anoff",
-    "homepage": "https://github.com/anoff/vscode-monokai-light/blob/master/README.md",
-    "icon": "icon.png",
-    "galleryBanner": {
-        "color": "#F92672",
-        "theme": "dark"
-    },
-    "engines": {
-        "vscode": "^1.5.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Monokai Light",
-                "uiTheme": "vs",
-                "path": "./themes/Monokai%20Light.tmTheme"
-            }
-        ]
-    },
-    "devDependencies": {
-        "cz-conventional-kawaii": "^0.1.0"
-    },
-    "config": {
-        "commitizen": {
-            "path": "./node_modules/cz-conventional-kawaii"
-        },
-        "cz-conventional-kawaii": {
-            "quick": true,
-            "scopes": []
-        }
+    "cz-conventional-kawaii": {
+      "quick": true,
+      "scopes": []
     }
+  }
 }
