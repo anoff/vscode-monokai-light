@@ -31,7 +31,7 @@
     ]
   },
   "devDependencies": {
-    "cz-conventional-kawaii": "^0.1.0"
+    "cz-conventional-kawaii": "^1.0.0"
   },
   "config": {
     "commitizen": {
