@@ -173,6 +173,19 @@
 				<string>#6AAF19</string>
 			</dict>
 		</dict>
+        <dict>
+            <key>name</key>
+            <string>Special language variable</string>
+            <key>scope</key>
+            <string>variable.language</string>
+            <key>settings</key>
+            <dict>
+                <key>fontStyle</key>
+                <string>italic</string>
+                <key>foreground</key>
+                <string>#FD971F</string>
+            </dict>
+        </dict>
 		<dict>
 			<key>name</key>
 			<string>Function argument</string>
@@ -251,6 +264,19 @@
 				<string>#28C6E4</string>
 			</dict>
 		</dict>
+        <dict>
+            <key>name</key>
+            <string>Meta attributes</string>
+            <key>scope</key>
+            <string>meta.attribute</string>
+            <key>settings</key>
+            <dict>
+                <key>fontStyle</key>
+                <string>italic</string>
+                <key>foreground</key>
+                <string>#cd3704</string>
+            </dict>
+        </dict>
 		<dict>
 			<key>name</key>
 			<string>Library variable</string>
