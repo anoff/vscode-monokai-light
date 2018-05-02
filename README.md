@@ -23,11 +23,11 @@ Two new selectors added
 
 before:
 
-<img alt="v1.0.0 without variable.language attribute" src="./screenshot_py_1.0.0.png" width="400px">
+<img alt="v1.0.0 without variable.language attribute" src="https://raw.githubusercontent.com/anoff/vscode-monokai-light/master/screenshot_py_1.0.0.png" width="400px">
 
 after:
 
-<img alt="v1.1.0 special language words highlighted" src="./screenshot_py_1.1.0.png" width="400px">
+<img alt="v1.1.0 special language words highlighted" src="https://raw.githubusercontent.com/anoff/vscode-monokai-light/master/screenshot_py_1.1.0.png" width="400px">
 
 ## License
 
