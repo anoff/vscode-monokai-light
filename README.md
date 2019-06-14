@@ -14,6 +14,10 @@ Grab it on the [VSC marketplace](https://marketplace.visualstudio.com/items?item
 
 ## Changelog
 
+### 1.2.0
+
+additional markup selectors added, see [PR#5](https://github.com/anoff/vscode-monokai-light/pull/5/files) for details
+
 ### 1.1.0
 
 Two new selectors added
